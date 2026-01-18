@@ -1,0 +1,14 @@
+# Gradle
+.gradle/
+build/
+*/build/
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+captures/
+output.json
+
+# Keystore (never commit!)
+my-release-key.jks
